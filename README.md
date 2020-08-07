@@ -1,7 +1,8 @@
 # dndtools
 A simple set of tools to be used when playing Dungeons and Dragons.
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+---
 
 ## Available Scripts
 
